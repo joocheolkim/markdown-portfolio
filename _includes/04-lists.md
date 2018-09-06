@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Study
+2. Hard
+   2. what
+   3. is this?
